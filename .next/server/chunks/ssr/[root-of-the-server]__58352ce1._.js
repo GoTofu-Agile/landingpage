@@ -1,0 +1,3 @@
+module.exports=[74270,a=>{a.v({className:"inter_8db6fa51-module__MMaAbG__className",variable:"inter_8db6fa51-module__MMaAbG__variable"})},27572,a=>{"use strict";var b=a.i(7997),c=a.i(74270);let d={className:c.default.className,style:{fontFamily:"'Inter', 'Inter Fallback'",fontStyle:"normal"}};function e({children:a}){return(0,b.jsx)("html",{lang:"en",className:d.variable,children:(0,b.jsx)("body",{className:"antialiased",children:a})})}null!=c.default.variable&&(d.variable=c.default.variable),a.s(["default",()=>e,"metadata",0,{title:"Tofu — Synthetic PM interviews",description:"Generate PM personas, interview them in chat, and capture insights at scale."}],27572)}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__58352ce1._.js.map
